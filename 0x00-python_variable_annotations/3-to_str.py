@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""converts a float to string"""
 
 
 def to_str(n: float) -> str:
