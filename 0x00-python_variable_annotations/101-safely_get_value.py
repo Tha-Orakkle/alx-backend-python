@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """More involved type annotations"""
 
 from typing import Any, Mapping, TypeVar, Union
